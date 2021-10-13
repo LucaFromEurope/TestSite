@@ -1,4 +1,15 @@
-#marian{
-       color: red;
-       text-decoration: none;
+#titlu{
+  text-align: center;
+  color: greenyellow;
+  background-color: indigo;
+  font-size: xx-large;
+}
+
+#anunt{
+  font-size: larger;
+  text-align: center;
+}
+
+#imagine{
+  align-content: center;
 }
